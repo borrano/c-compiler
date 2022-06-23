@@ -1,7 +1,7 @@
 # toy c-compiler based on KAIST Compiler Design course project.
 
 - Usage: stack run -- -c example_prog.c [-q|--executable]
-- Test: stack test: for all files in ./examples/c and ./examples/bench directories' compiles run and compare output with gcc-riscv output 
+- Test: stack test: for all files in ./examples/c and ./examples/bench compile, run and compare output with gcc-riscv output 
 
 
 ### Todo: 
